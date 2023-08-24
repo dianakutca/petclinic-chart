@@ -1,0 +1,4 @@
+replicas: 1
+repo: "ikambarov/petclinic"
+tag: "v2"
+serviceType: "LoadBalancer"
